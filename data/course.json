@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "630a84a8-5128-b22c-c9a1-a0811e83ba90"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Combinatorial Optimization",
+  "course_description": "Combinatorial Optimization provides a thorough treatment of linear programming and combinatorial optimization. Topics include network flow, matching theory, matroid optimization, and approximation algorithms for NP-hard problems.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.433",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
